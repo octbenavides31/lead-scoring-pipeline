@@ -1,0 +1,74 @@
+[
+  {
+    "parcel_id": "SMP-000101",
+    "situs_address": "100 Example St, Springfield TX",
+    "mailing_address": "100 Example St, Springfield TX",
+    "distress_signals": ["none"],
+    "assessed_value": 214000,
+    "amount_owed": 180000,
+    "event_date": "2026-01-04"
+  },
+  {
+    "parcel_id": "SMP-000102",
+    "situs_address": "212 Placeholder Ave, Springfield TX",
+    "mailing_address": "9 Faraway Rd, Otherville TX",
+    "distress_signals": ["tax_delinquent"],
+    "assessed_value": 168500,
+    "amount_owed": 32000,
+    "event_date": "2026-07-10"
+  },
+  {
+    "parcel_id": "SMP-000103",
+    "situs_address": "44 Sample Rd, Springfield TX",
+    "mailing_address": "44 Sample Rd, Springfield TX",
+    "distress_signals": ["none"],
+    "assessed_value": 92000,
+    "amount_owed": 0,
+    "event_date": null
+  },
+  {
+    "parcel_id": "SMP-000104",
+    "situs_address": "77 Testcase Dr, Springfield TX",
+    "mailing_address": "9 Faraway Rd, Otherville TX",
+    "distress_signals": ["foreclosure"],
+    "assessed_value": 640000,
+    "amount_owed": 210000,
+    "event_date": "2026-07-18"
+  },
+  {
+    "parcel_id": "SMP-000105",
+    "situs_address": "310 Fixture Ln, Springfield TX",
+    "mailing_address": "310 Fixture Ln, Springfield TX",
+    "distress_signals": ["probate"],
+    "assessed_value": 255000,
+    "amount_owed": 40000,
+    "event_date": "2026-05-02"
+  },
+  {
+    "parcel_id": "SMP-000106",
+    "situs_address": "18 Mock Ct, Springfield TX",
+    "mailing_address": "18 Mock Ct, Springfield TX",
+    "distress_signals": ["code_violation"],
+    "assessed_value": 310000,
+    "amount_owed": 295000,
+    "event_date": "2026-03-19"
+  },
+  {
+    "parcel_id": "SMP-000108",
+    "situs_address": "62 Stub St, Springfield TX",
+    "mailing_address": "9 Faraway Rd, Otherville TX",
+    "distress_signals": ["tax_delinquent", "code_violation"],
+    "assessed_value": 143000,
+    "amount_owed": 12000,
+    "event_date": "2026-07-01"
+  },
+  {
+    "parcel_id": "SMP-000109",
+    "situs_address": "8 Synthetic Way, Springfield TX",
+    "mailing_address": "8 Synthetic Way, Springfield TX",
+    "distress_signals": ["tax_delinquent"],
+    "assessed_value": 780000,
+    "amount_owed": 690000,
+    "event_date": "2025-11-11"
+  }
+]

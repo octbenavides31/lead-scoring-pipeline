@@ -1,5 +1,7 @@
 # lead-scoring-pipeline
 
+[![tests](https://github.com/octbenavides31/lead-scoring-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/octbenavides31/lead-scoring-pipeline/actions/workflows/tests.yml)
+
 Takes normalized property records, extracts features, scores and tiers them, and emits ranked JSON plus a self-contained HTML report.
 
 ```bash
@@ -58,7 +60,7 @@ Feature extraction as pure functions, deterministic baseline before ML, interfac
 ```
 scorer.py                  # feature extraction, rule scorer, tiering, HTML report
 fixtures/records.json      # 8 synthetic records
-tests/test_scorer.py       # 20 tests, including tier boundaries and clamping
+tests/test_scorer.py       # 19 tests, including tier boundaries and clamping
 ```
 
 All data is invented. Any resemblance to a real parcel, person, or address is coincidental.
